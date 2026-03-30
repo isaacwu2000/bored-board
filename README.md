@@ -1,3 +1,3 @@
 # Game
-Using rust
-Dioxus UI framework
+Using Next JS + Vercel
+Using pnpm
